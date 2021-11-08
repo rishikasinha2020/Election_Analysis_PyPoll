@@ -1,14 +1,4 @@
-Overview of Election Audit
-
-The purpose of this election analysis audit is well defined. (3 pt)
-Election Audit Results
-
-There is a bulleted list where each election outcome is addressed. (7 pt)
-Election Audit Summary
-
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
-
-Overview of Election Audit: 
+**Overview of Election Audit:** 
 
 The election commission has requested some additional data to complete the audit:
 
@@ -16,11 +6,13 @@ The election commission has requested some additional data to complete the audit
     The percentage of votes from each county out of the total count
     The county with the highest turnout
 
+**Purpose of this project:**
+
 Working from this module’s election_results.csv file, to print the results to the command line and save them to your election_results.txt file.
 
 Finally, provide a written analysis of the election audit for the election commission, including the new results and a clearly written overview of your methods. As with all written analyses, this will help your audience understand what you did and what they might be able to do with the data you presented.
 
-Election-Audit Results: 
+**Election-Audit Results: **
 
 Election Results
 -------------------------
@@ -48,7 +40,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
-This script can be modified to be used for other elections:
+**This script can be modified to be used for other elections:**
 1. This script can be modified to know with how many voted the winner won the election
 2. This script can be modified to know what was the difference in number of votes between the candidates to understand the demography. 
 

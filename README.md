@@ -14,6 +14,8 @@ Finally, provide a written analysis of the election audit for the election commi
 
 **Election-Audit Results: **
 
+Refer **Analysis folder** to refer **election_analysis.txt** file for detailed result.
+
 Election Results
 -------------------------
 Total Votes casted in this congressional election: 369,711
